@@ -1,0 +1,9 @@
+C:\Users\omrba\source\repos\Inventory System\Inventory System\bin\Debug\Inventory System.exe.config
+C:\Users\omrba\source\repos\Inventory System\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\omrba\source\repos\Inventory System\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\omrba\source\repos\Inventory System\Inventory System\obj\Debug\Inventory System.csprojAssemblyReference.cache
+C:\Users\omrba\source\repos\Inventory System\Inventory System\obj\Debug\Inventory_System.Form1.resources
+C:\Users\omrba\source\repos\Inventory System\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+C:\Users\omrba\source\repos\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.cache
+C:\Users\omrba\source\repos\Inventory System\Inventory System\obj\Debug\Inventory System.exe
+C:\Users\omrba\source\repos\Inventory System\Inventory System\obj\Debug\Inventory System.pdb
